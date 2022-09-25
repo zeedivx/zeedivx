@@ -2,7 +2,7 @@
 
 ### Contact:
 
-[Discord](https://discords.com/bio/p/zdv)
+[Discord](https://dsc.bio/0x290)
 
 ---
 
