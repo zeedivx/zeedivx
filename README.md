@@ -2,7 +2,7 @@
 
 ### Contact:
 
-[Discord](https://dsc.bio/0x290](https://dsc.bio/zeediv)
+[Discord](https://dsc.bio/zeediv)
 
 ---
 
