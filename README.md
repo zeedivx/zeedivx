@@ -4,7 +4,7 @@ I'm a **Full-Stack Developer** who loves building web apps, APIs, and Discord bo
 
 ### 🔗 Contact:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://dsc.bio/zeediv)  
-[![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jakub@nhost.pl)
+[![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jakub@hostero.pl)
 
 ---
 
