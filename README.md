@@ -46,7 +46,7 @@ I'm a **Full-Stack Developer** who loves building web apps, APIs, and Discord bo
 ---
 
 ### 🧑‍💻 Projects:
-- [🌐 Hosting Platform - nhost.pl](https://nhost.pl)  
+- [🌐 Hosting Platform - hostero.pl](https://hostero.pl)  
   A hosting platform built with **Laravel**, **PHP**, and **React**.
 
 - [🎫 Ticketing System - tickets.hoxger.pl](https://tickets.hoxger.pl)  
