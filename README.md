@@ -1,3 +1,7 @@
+<p align="center">
+  <img src=".github/images/banner.png" alt="zeediv banner" />
+</p>
+
 # Jakub
 
 **Full-Stack Developer & Freelancer**
