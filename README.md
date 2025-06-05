@@ -37,7 +37,7 @@ Support ticketing system built with FastAPI and Next.js. Keeps support teams and
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zeedivx&show_icons=true&theme=dark&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=zeedivx&theme=dark&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zeedivx&layout=compact&theme=dark&hide_border=true)
 
 </div>
