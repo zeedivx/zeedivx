@@ -28,7 +28,7 @@ Gaming & VPS hosting platform. Laravel backend with React frontend handling serv
 ### [Hoxger Tickets](https://tickets.hoxger.pl)
 Support ticketing system built with FastAPI and Next.js. Keeps support teams and users connected efficiently.
 
-### [Smithy](https://github.com/Anvoria)
+### [Smithy](https://github.com/Anvoria/smithy)
 Open-source project & task management tool designed for developers and freelancers. Built with FastAPI and Next.js. Emphasizes minimalism with modular architecture and GitHub integration.
 
 ### Discord Bots
